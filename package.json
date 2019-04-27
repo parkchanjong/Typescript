@@ -12,6 +12,7 @@
 		"tsc-watch": "^2.1.2"
 	},
 	"dependencies": {
+		"crypto-js": "^3.1.9-1",
 		"typescript": "^3.4.2"
 	}
 }
